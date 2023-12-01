@@ -6,6 +6,15 @@
   I am an enthusiastic undergraduate embedded software engineer who thrives on solving intricate challenges within the realm of hardware and software integration.
 </p>
 
+  <p align="center">
+  <span>My CV can be found below:</span>
+</p>
+  <p align="center">
+<a href="https://drive.google.com/drive/u/2/folders/1kT9_3HelOJ36UtgGJpwx-Imu5RWHnZat" target="_blank">
+    <img src="https://as2.ftcdn.net/v2/jpg/00/99/38/75/1000_F_99387513_nXXJsxWvAPgh9qrvM57wEyyzqbAkgClJ.jpg" alt="Email" height="50" width="50" />
+  </a>
+</p>
+
 <p align="center">
   Connect with me on:
 </p>
