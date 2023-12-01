@@ -34,16 +34,19 @@
 
 <h3 align="center">Projects</h3>
 <p align="center">
-  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Pressure%20Control%20System">1- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
+  <a href="https://github.com/MostafaEdrees11/Simple_Calculator_Atmega32">1- Simple Calculator using Atmega32</a>: This AVR calculator project is designed for the AVR microcontroller and includes features such as basic arithmetic operations (+, -, *, /), handling operands with more than one digit, support for negative numbers, memory of the last value for use in new operations, and special handling for division, including integer and fractional parts display and detection of math errors (division by zero).
 </p>
 <p align="center">
-  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Student%20Management%20System">2- Student Management System</a>: Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
+  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Pressure%20Control%20System">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
 </p>
 <p align="center">
-  <a href="https://github.com/MostafaEdrees11/Library_Management_System"> 3- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
+  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Student%20Management%20System">3- Student Management System</a>: Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
 </p>
 <p align="center">
-  <a href="https://github.com/MostafaEdrees11/Student_Recored_System">4- Student Record System</a>: This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
+  <a href="https://github.com/MostafaEdrees11/Library_Management_System"> 4- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
+</p>
+<p align="center">
+  <a href="https://github.com/MostafaEdrees11/Student_Recored_System">5- Student Record System</a>: This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
 </p>
 
 
