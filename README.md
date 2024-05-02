@@ -32,6 +32,16 @@
   - Faculty of Engineering, Electronics & Communication Department, Mansoura University
 </p>
 
+## Technical Skills
+* Strong Knowledge C / Embedded C
+* Data Structures (Stack, Queue, Linked list)
+* Communication Protocols (UART – SPI – I2C)
+* Familiar with CAN Protocol
+* Embedded Interfacing with different microcontrollers (STM32F103C6, [ATMEGA32](https://github.com/MostafaEdrees11/ATMEGA32_DRIVERS))
+* Familiar with ARM Architecture (ARM Cortex-M3/4)
+* Created My Own Scheduler [GitHub](https://github.com/MostafaEdrees11/My_Own_RTOS)
+* Basic knowledge with Linux.
+
 ## Projects
 
 ### [Traffic Light Control System](https://github.com/MostafaEdrees11/Traffic_Light_Control_System)
