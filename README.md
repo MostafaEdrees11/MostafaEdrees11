@@ -32,23 +32,39 @@
   - Faculty of Engineering, Electronics & Communication Department, Mansoura University
 </p>
 
-<h3 align="center">Projects</h3>
-<p align="center">
-  <a href="https://github.com/MostafaEdrees11/Simple_Calculator_Atmega32">1- Simple Calculator using Atmega32</a>: This AVR calculator project is designed for the AVR microcontroller and includes features such as basic arithmetic operations (+, -, *, /), handling operands with more than one digit, support for negative numbers, memory of the last value for use in new operations, and special handling for division, including integer and fractional parts display and detection of math errors (division by zero).
-</p>
-<p align="center">
-  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Pressure%20Control%20System">2- Pressure Control System</a>:  Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
-</p>
-<p align="center">
-  <a href="https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Student%20Management%20System">3- Student Management System</a>: Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
-</p>
-<p align="center">
-  <a href="https://github.com/MostafaEdrees11/Library_Management_System"> 4- Library Management System</a>: developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
-</p>
-<p align="center">
-  <a href="https://github.com/MostafaEdrees11/Student_Recored_System">5- Student Record System</a>: This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
-</p>
+## Projects
 
+### [Traffic Light Control System](https://github.com/MostafaEdrees11/Traffic_Light_Control_System)
+Designed Traffic Light Control System with dual modes (Normal and Pedestrian) for efficient traffic 
+management and pedestrian safety. Incorporated sequential LED transitions and pedestrian 
+activation through external button press for enhanced usability. Streamlined car traffic flow while 
+prioritizing pedestrian crossings, improving overall road safety.
+
+### [Ping Pong Game](https://github.com/MostafaEdrees11/PING_PONG_GAME)
+Developed Ping-Pong game with LCD display and external interrupts, allowing two players to 
+compete across 5 rounds. Integrated player controls using buttons, with scores displayed on 
+dedicated Seven Segment displays.
+
+### [Simple Calculator using Atmega32](https://github.com/MostafaEdrees11/Simple_Calculator_Atmega32)
+This AVR calculator project is designed for the AVR microcontroller and includes features such as basic arithmetic operations (+, -, *, /), handling operands with more than one digit, support for negative numbers, memory of the last value for use in new operations, and special handling for division, including integer and fractional parts display and detection of math errors (division by zero).
+
+### [Fire Control & IOT System](https://github.com/MostafaEdrees11/DevFest_Mansoura_Hackathon_Average_A_Team)
+* DevFest Mansoura Hackathon
+* Developed and implemented a cutting-edge fire alarm system that detects emergencies in real-time and syncs with a user-friendly app tailored to individual customer preferences, ensuring swift and personalized response in critical situations.
+* Team Members: Average A Team
+[Ammar Rakha](https://www.linkedin.com/in/ammar-rakha/), [Ahmed Abdelfatth](https://www.linkedin.com/in/ahmed-abdelfatth/), [Mostafa Selim](https://www.linkedin.com/in/mostafa-selim-a46a5a242/), [Menna Eid](https://www.linkedin.com/in/menna-eid-084115240/), [Yasmin Kadry](https://www.linkedin.com/in/yasmin-kadry/)
+
+### [Pressure Control System](https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Pressure%20Control%20System)
+Designed a pressure control system with a custom startup C code, linker script, makefile, and UML diagrams for STM32F103C6 MCU, alerting the crew with a 60-second alarm when cabin pressure exceeds 20 bars.
+
+### [Student Management System](https://github.com/MostafaEdrees11/Mastering_Embedded_System_Online_Diploma/tree/master/Unit5_First%20Term%20Projects/Student%20Management%20System)
+Developed in C programming with a Queue Data Structure, this project efficiently manages student data, allowing manual and file-based data entry, search, update, and delete functions. It accommodates up to 50 students using an array of structs and a global index
+
+### [Student Record System](https://github.com/MostafaEdrees11/Student_Recored_System)
+This is a simple project stores and manipulates a list of students records. Student record contains his name, year, unique id, and password. The program has two modes: admin mode and user mode, and you have to choose which mode you need at the start of the program. If you choose admin mode, you’ll be asked for the password and you have these privileges: Add student record. Remove student record. Edit student record. View student record. View all records. Edit admin password. And if you choose user mode, you’ll be asked for the id and the password, and you have these privileges: View your record. Edit your password.
+
+### [Library Management System](https://github.com/MostafaEdrees11/Library_Management_System)
+developed in C programming with a Linked-List Data Structure, offers Owner, Admin, and User modes for efficiently managing library accounts, including permissions for each role.
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center">
