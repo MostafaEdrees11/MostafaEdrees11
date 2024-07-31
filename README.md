@@ -36,13 +36,18 @@
 * Strong Knowledge C / Embedded C
 * Data Structures (Stack, Queue, Linked list)
 * Communication Protocols (UART – SPI – I2C)
-* Familiar with CAN Protocol
+* Good knowledge with CAN Protocol
 * Embedded Interfacing with different microcontrollers (STM32F103C6, [ATMEGA32](https://github.com/MostafaEdrees11/ATMEGA32_DRIVERS))
 * Familiar with ARM Architecture (ARM Cortex-M3/4)
 * Created My Own Scheduler [GitHub](https://github.com/MostafaEdrees11/My_Own_RTOS)
 * Basic knowledge with Linux.
 
 ## Projects
+
+### [Automated Greenhouse Monitoring System](https://github.com/MostafaEdrees11/Automated_Greenhouse_Monitoring_System_Bits_Wizards_Team)
+Maintaining optimal conditions in a greenhouse is crucial for ensuring healthy plant growth and maximizing yield.
+We use DHT11 for Temp & Humidity and Soil Moisture for Soil and LDR for Light Intensity.
+We use two MCU and communicate between them by I2C and We send the data of sensors to Node Red Server via serial.
 
 ### [Traffic Light Control System](https://github.com/MostafaEdrees11/Traffic_Light_Control_System)
 Designed Traffic Light Control System with dual modes (Normal and Pedestrian) for efficient traffic 
