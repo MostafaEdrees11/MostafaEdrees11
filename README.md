@@ -1,4 +1,68 @@
-<p align="center">
+<div align="center">
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=008BFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mostafa+Edrees;Frontend+Developer+%7C+React;Building+Scalable+Web+Apps" alt="Typing SVG" />
+ 
+  <p align="center"> 
+     Creating high-performance web applications with <b>React</b>.<br>
+     Electronics and Communications Engineer | <b>Mansoura University</b><br>
+     Frontend and Mobile Cross Platform Track | <b>Information Technology Institute (ITI)</b>
+  </p>
+
+  <p>
+    <a href="https://drive.google.com/drive/u/0/folders/1kT9_3HelOJ36UtgGJpwx-Imu5RWHnZat" target="_blank">
+      <img src="https://img.shields.io/badge/RESUME-202124?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+    </a>
+    <a href="https://www.linkedin.com/in/mostafa-edrees11/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:mostafaedrees018@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+  </p>
+
+
+  <img src="https://komarev.com/ghpvc/?username=MostafaEdrees11&label=PROFILE%20VIEWS&color=008BFF&style=flat-square" alt="Mostafa Edrees" />
+
+</div>
+
+---
+
+### 💻 Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,tailwind,sass,html,css" height="45" alt="Frontend Tools" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,nodejs,git,github" height="45" alt="Backend Tools" />
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MostafaEdrees11&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MostafaEdrees11&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=MostafaEdrees11&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+
+
+
+<!-- <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/860610312554032555/487E65FCC15C60E817F901A747D323B25AB584A1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Welcome" />
 </p>
 <h3 align="center">About Me</h3>
@@ -116,4 +180,4 @@ developed in C programming with a Linked-List Data Structure, offers Owner, Admi
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
